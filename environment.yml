@@ -1,4 +1,4 @@
-name: np
+name: pj-natpk
 channels:
   - defaults
 dependencies:
